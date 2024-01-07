@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinithafdo&label=Profile%20views&color=0e75b6&style=flat" alt="dinithafdo" /> </p>
 
-- 🔭 I’m currently working on [TimeKeeper](www.timekeeper.lk)
+- 🔭 I’m currently working on [TimeKeeper LK](www.timekeeper.lk)
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **info@dinitha.me**
+- 📫 Send an [email](mailto:info@dinitha.me) to get in touch with me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
